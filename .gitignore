@@ -43,3 +43,6 @@ obj/
 
 *.depend
 *.layout
+
+# Templates
+README_TEMPLATE.md
